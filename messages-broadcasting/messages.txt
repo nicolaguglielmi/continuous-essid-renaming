@@ -1,0 +1,3 @@
+600	Shop1:30% clearance
+1800	Shop2:Pay 2 Take 3, only today!
+600	Shop1:Super Sale inside!!!
