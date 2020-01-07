@@ -1,4 +1,4 @@
-#a POC of  queue manager with two button to increment and decrement the actual value and broadcast it by wifi
+#a POC of  queue manager with two button to increment and decrement the current value and broadcast it by wifi
 import machine
 from machine import I2C, Pin
 import time
